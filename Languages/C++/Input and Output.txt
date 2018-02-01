@@ -1,0 +1,16 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    int a,b,c;
+    scanf("%d %d %d",&a,&b,&c);
+    int s=a+b+c;
+        printf("%d",s);
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    return 0;
+}
